@@ -3,7 +3,7 @@
 
 **electr-OP/elEctr-OP**  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electr-Op)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electr-Op&count_private=trueshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 A little about me:
 
