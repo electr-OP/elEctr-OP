@@ -14,4 +14,4 @@ A little about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm an Early Bird
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electr-Op&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=electr-Op&theme=dark&fire=DD2727)](https://git.io/streak-stats)
