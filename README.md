@@ -3,8 +3,6 @@
 
 **electr-OP/elEctr-OP**  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electr-Op&count_private=trueshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 A little about me:
 
 - 🔭 I’m currently working on Django, Python, Vuejs, Javascript, Selenium, UIPath, Web3
@@ -16,3 +14,4 @@ A little about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm an Early Bird
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electr-Op&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
