@@ -5,7 +5,7 @@
 
 A little about me:
 
-- 🔭 I’m currently working on Django, Python, Vuejs, Javascript, Selenium, UIPath, Web3
+- 🔭 I’m currently working on Django, Python, Data Extraction and Formatting, Automation and Scripting, Vuejs, Javascript, Selenium, UIPath, Web3
 - 🌱 I’m currently learning Microsoft Azure AI Implementation, Dart/Flutter, Solidity
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
