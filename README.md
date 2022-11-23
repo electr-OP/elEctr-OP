@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**electr-OP/elEctr-OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**electr-OP/elEctr-OP**  
 
-Here are some ideas to get you started:
+A little about me:
 
 - 🔭 I’m currently working on Django, Python, Vuejs, Javascript, Selenium, UIPath, Web3
 - 🌱 I’m currently learning Microsoft Azure AI Implementation, Dart/Flutter, Solidity
